@@ -1,0 +1,10 @@
+﻿  Bird.cpp
+  Plane.cpp
+  project5.cpp
+c:\users\zzjal\desktop\test\project5\project5\project5.cpp(15): error C2683: “dynamic_cast”:“Flyable”不是多态类型
+  c:\users\zzjal\desktop\test\project5\project5\flyable.h(5): note: 参见“Flyable”的声明
+c:\users\zzjal\desktop\test\project5\project5\project5.cpp(20): error C2683: “dynamic_cast”:“Flyable”不是多态类型
+  c:\users\zzjal\desktop\test\project5\project5\flyable.h(5): note: 参见“Flyable”的声明
+c:\users\zzjal\desktop\test\project5\project5\project5.cpp(30): error C2061: 语法错误: 标识符“p”
+c:\users\zzjal\desktop\test\project5\project5\project5.cpp(30): error C2146: 语法错误: 缺少“(”(在标识符“p”的前面)
+  正在生成代码...
